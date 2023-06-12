@@ -1,0 +1,15 @@
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/bin/Debug/net7.0/Unsort_Names
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/bin/Debug/net7.0/Unsort_Names.deps.json
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/bin/Debug/net7.0/Unsort_Names.runtimeconfig.json
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/bin/Debug/net7.0/Unsort_Names.dll
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/bin/Debug/net7.0/Unsort_Names.pdb
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.csproj.AssemblyReference.cache
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.AssemblyInfoInputs.cache
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.AssemblyInfo.cs
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.csproj.CoreCompileInputs.cache
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.dll
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/refint/Unsort_Names.dll
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.pdb
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/Unsort_Names.genruntimeconfig.cache
+/Users/adampatrick/Projects/Unsort_Names/Unsort_Names/obj/Debug/net7.0/ref/Unsort_Names.dll
